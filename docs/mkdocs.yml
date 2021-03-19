@@ -1,4 +1,7 @@
 site_name: RaspUSB Docs
+nav: 
+    - Home: index.md
+    - About: about.md
 theme:
     name: readthedocs
     highlightjs: true
