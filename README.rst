@@ -1,4 +1,4 @@
-Welcome to Read the Docs
+Welcome to Read the Docs (RaspUSB Docs)
 ========================
 
 |build-status| |docs| |coverage|
